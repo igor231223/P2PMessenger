@@ -1,0 +1,4 @@
+cryptography>=41.0.0
+PyQt6>=6.5.0
+Flask>=3.0.0
+miniupnpc>=2.2.2
